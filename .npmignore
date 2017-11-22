@@ -4,6 +4,7 @@
 /tests
 /tmp
 **/.gitkeep
+.bithoundrc
 .bowerrc
 .editorconfig
 .ember-cli
@@ -12,14 +13,14 @@
 .github
 .gitignore
 .pullapprove.yml
+.remarkrc
+.sass-lint.yml
 .travis
-.vscodeignore
 .watchmanconfig
 .travis.yml
 bower.json
-dependency-snapshot.json
 ember-cli-build.js
+dependency-snapshot.json
 jsconfig.json
-testem.js
+testem.json
 .idea
-/visual-acceptance
